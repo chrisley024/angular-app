@@ -2,7 +2,7 @@
 A web app with CRUD operations and API fetch for contents.
 ## Tech Stack:
 Angualr, Typescript, Bootstrap, HTML & CSS.  
-web url: https://ang-crud-app.netlify.app/followers
+web url: https://ang-crud-app.netlify.app/
 
 # HttpService
 
