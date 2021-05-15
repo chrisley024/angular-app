@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "http-service"
+  "defaultProject": "http-service",
+  "cli": {
+    "analytics": false
+  }
 }

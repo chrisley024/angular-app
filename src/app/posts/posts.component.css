@@ -1,0 +1,8 @@
+.deleteBtn {
+  float: right;
+  border: 2px solid red;
+}
+
+.updateBtn {
+  margin-right: 2em;
+}
