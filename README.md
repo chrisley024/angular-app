@@ -1,3 +1,9 @@
+# Angular web app
+A web app with CRUD operations and API fetch for contents.
+## Tech Stack:
+Angualr, Typescript, Bootstrap, HTML & CSS.  
+web url: https://ang-crud-app.netlify.app/
+
 # HttpService
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
