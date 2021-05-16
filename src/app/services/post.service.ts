@@ -11,7 +11,7 @@ import { AppError } from '../common/app-error';
   providedIn: 'root'
 })
 export class PostService {
-  url = 'http://jsonplaceholder.typicode.com/posts';
+  url = 'https://jsonplaceholder.typicode.com/posts';
 
   erroHandler(error: HttpErrorResponse) {
     return throwError(error.message || 'server Error');
